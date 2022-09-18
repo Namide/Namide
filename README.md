@@ -1,9 +1,18 @@
-# 👤 Namide 
+### 👤 Namide
 
-> Web frontend developer
+_Web frontend developer._
 
+<img align="right" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/static/v1?label=&message=Test&color=blue" align="right" />
+  
 <!--
 ![Namide github stats](https://github-readme-stats.vercel.app/api?username=Namide&show_icons=true&theme=dracula)
+
+<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" align="right" />
+brightgreengreenyellowgreenyelloworangeredbluelightgrey
+successimportantcriticalinformationalinactive
+bluevioletff69b49cf
 -->
 
 <!--
