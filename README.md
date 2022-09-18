@@ -1,9 +1,13 @@
-# Namide 👋
+# 👤 Namide 
 
-![merubokkusu github stats](https://github-readme-stats.vercel.app/api?username=Namide&show_icons=true&theme=dracula)
+> Web frontend developer
 
 <!--
-Here are some ideas to get you started:
+![Namide github stats](https://github-readme-stats.vercel.app/api?username=Namide&show_icons=true&theme=dracula)
+-->
+
+<!--
+Here are some ideas to get you started: 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
