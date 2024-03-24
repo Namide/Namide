@@ -1,15 +1,15 @@
 Hi, I'm [Namide](https://namide.com/), I like video games, books and programming 🦄
 
-![](https://img.shields.io/badge/TypeScript-0?style=for-the-badge&logo=typescript&color=3178c6&logoColor=FFF)
-![](https://img.shields.io/badge/three.js-0?style=for-the-badge&logo=three.js&color=efd81d&logoColor=000)
-![](https://img.shields.io/badge/Vue.js-0?style=for-the-badge&logo=Vue.js&color=42b883&logoColor=FFF)
-![](https://img.shields.io/badge/Blender_3D-0?style=for-the-badge&logo=Blender&color=f4792b&logoColor=FFF)
-![](https://img.shields.io/badge/PixiJs-0?style=for-the-badge&logo=PixiJs&color=e72264&logoColor=000)
-![](https://img.shields.io/badge/Node.js-0?style=for-the-badge&logo=Node.js&color=509941&logoColor=FFF)
-![](https://img.shields.io/badge/Biome.js-0?style=for-the-badge&logo=Biome.js&color=60a5fa&logoColor=FFF)
-![](https://img.shields.io/badge/VS_Code-0?style=for-the-badge&logo=VisualStudioCode&color=0066b8&logoColor=FFF)
-<!-- ![](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=JavaScript&color=efd81d&logoColor=000)
-![](https://img.shields.io/badge/SASS-0?style=for-the-badge&logo=SASS&color=bf4080&logoColor=FFF) -->
+![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
+![](https://img.shields.io/badge/three.js-0?style=flat-square&logo=three.js&color=efd81d&logoColor=000)
+![](https://img.shields.io/badge/Vue.js-0?style=flat-square&logo=Vue.js&color=42b883&logoColor=FFF)
+![](https://img.shields.io/badge/Blender_3D-0?style=flat-square&logo=Blender&color=f4792b&logoColor=FFF)
+![](https://img.shields.io/badge/PixiJs-0?style=flat-square&logo=PixiJs&color=e72264&logoColor=000)
+![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)
+![](https://img.shields.io/badge/Biome.js-0?style=flat-square&logo=Biome.js&color=60a5fa&logoColor=FFF)
+![](https://img.shields.io/badge/VS_Code-0?style=flat-square&logo=VisualStudioCode&color=0066b8&logoColor=FFF)
+<!-- ![](https://img.shields.io/badge/JavaScript-0?style=flat-square&logo=JavaScript&color=efd81d&logoColor=000)
+![](https://img.shields.io/badge/SASS-0?style=flat-square&logo=SASS&color=bf4080&logoColor=FFF) -->
 
 <br>
 
