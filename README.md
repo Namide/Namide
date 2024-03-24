@@ -14,19 +14,19 @@ I like video games, books and programming 🦄
 
 ## Open source projects
 
-### [Extract Colors](https://extract-colors.namide.com/)  
+[**Extract Colors**](https://extract-colors.namide.com/)  
 [![](https://img.shields.io/badge/NPM-0?style=flat-square&logo=NPM&color=cd3e3d&logoColor=FFF)](https://www.npmjs.com/package/extract-colors)
 [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/extract-colors)
 ![](https://img.shields.io/github/stars/Namide/extract-colors?style=flat-square&labelColor=343b41)
 ![](https://img.shields.io/npm/dt/extract-colors?style=flat-square)  
 <sup>Extract color palettes from images (browser or Node.js)</sup>
 
-[Twon](https://twon.namide.com/) _(in development)_  
+[**Twon**](https://twon.namide.com/) _(in development)_  
 [![](https://img.shields.io/badge/NPM-0?style=flat-square&logo=NPM&color=cd3e3d&logoColor=FFF)](https://www.npmjs.com/package/twon)
 [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/twon)  
 <sup>Tween js/ts library with timeline and cubic bezier support</sup>
 
-[AE tools](https://github.com/Namide/AE-tools)  
+[**AE tools**](https://github.com/Namide/AE-tools)  
 <sup>Few helpers for After Effects</sup>
 
 
