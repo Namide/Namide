@@ -35,7 +35,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 🎮 **Platform** - [demo](https://namide.github.io/havok-test-2/) - [GitHub](https://github.com/Namide/havok-test-2)  
 <sup>Havok WASM web version with Three.js for platform game with infinity terrain generation</sup>
 
-👾 **Vailama** - [demo](https://vailama.namide.com/) - [sources](https://github.com/Namide/vailama)  
+👾 **Vailama** - [demo](https://vailama.namide.com/) - [GitHub](https://github.com/Namide/vailama)  
 <sup>_Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/) contest_</sup>
 
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)  
