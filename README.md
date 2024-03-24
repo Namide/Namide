@@ -1,6 +1,8 @@
-# Hi, I'm Namide 👋
+# Hi, I'm [Namide](https://namide.com/)
 
+I like video games, books and programming 🦄
 
+---
 
 ![](https://img.shields.io/badge/TypeScript-0?style=for-the-badge&logo=typescript&color=3178c6&logoColor=FFF)
 ![](https://img.shields.io/badge/three.js-0?style=for-the-badge&logo=three.js&color=efd81d&logoColor=000)
@@ -12,7 +14,7 @@
 ![](https://img.shields.io/badge/VS_Code-0?style=for-the-badge&logo=VisualStudioCode&color=0066b8&logoColor=FFF)
 
 
-## Open source project
+## My open source project
 
 | Website | Package | Source | Stars | Downloads |
 | --- | --- | --- | --- | --- |
@@ -21,10 +23,10 @@
 
 ## Experiments
 
-- [**Physic drag'n drop**](https://namide.github.io/havok-test/) [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/havok-test)
+- [**Physic drag'n drop**] [Website](https://namide.github.io/havok-test/) [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/havok-test)
 - [**Physic Character**](https://namide.github.io/havok-test-2/) [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/havok-test-2)
-- [**Vailama**](https://vailama.namide.com/) [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/vailama)  
-  <small>Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/) contest</small>
+- **Vailama** | [demo](https://vailama.namide.com/) | [sources](https://github.com/Namide/vailama)  
+  <sup>_Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/) contest_</sup>
   
 <!--
 ![Namide github stats](https://github-readme-stats.vercel.app/api?username=Namide&show_icons=true&theme=dracula)
