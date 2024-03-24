@@ -13,7 +13,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 
 ---
 
-# Open source projects
+## Open source projects
 
 **Extract Colors** - [site](https://extract-colors.namide.com/)  - [NPM](https://www.npmjs.com/package/extract-colors) - [GitHub](https://github.com/Namide/extract-colors)  
 <sup>Extract color palettes from images (browser or Node.js)</sup>  
@@ -27,7 +27,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 
 ---
 
-# 3D experiments
+## 3D experiments
 
 🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [GitHub](https://github.com/Namide/havok-test)  
 <sup>Havok WASM web version with Three.js with drag'n drop support</sup>
