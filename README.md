@@ -14,7 +14,7 @@ I like video games, books and programming 🦄
 
 ## Open source projects
 
-[Extract Colors](https://extract-colors.namide.com/)  
+### [Extract Colors](https://extract-colors.namide.com/)  
 [![](https://img.shields.io/badge/NPM-0?style=flat-square&logo=NPM&color=cd3e3d&logoColor=FFF)](https://www.npmjs.com/package/extract-colors)
 [![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/extract-colors)
 ![](https://img.shields.io/github/stars/Namide/extract-colors?style=flat-square&labelColor=343b41)
