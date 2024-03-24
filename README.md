@@ -11,9 +11,9 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 <!-- ![](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=JavaScript&color=efd81d&logoColor=000)
 ![](https://img.shields.io/badge/SASS-0?style=for-the-badge&logo=SASS&color=bf4080&logoColor=FFF) -->
 
+---
 
-
-## Open source projects
+# Open source projects
 
 **Extract Colors** - [site](https://extract-colors.namide.com/)  - [NPM](https://www.npmjs.com/package/extract-colors) - [GitHub](https://github.com/Namide/extract-colors)  
 <sup>Extract color palettes from images (browser or Node.js)</sup>  
@@ -25,8 +25,9 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 **AE tools** - [GitHub](https://github.com/Namide/AE-tools)  
 <sup>Few helpers for After Effects</sup>
 
+---
 
-## 3D experiments
+# 3D experiments
 
 🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [GitHub](https://github.com/Namide/havok-test)  
 <sup>Havok WASM web version with Three.js with drag'n drop support</sup>
