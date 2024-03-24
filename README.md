@@ -11,7 +11,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 <!-- ![](https://img.shields.io/badge/JavaScript-0?style=for-the-badge&logo=JavaScript&color=efd81d&logoColor=000)
 ![](https://img.shields.io/badge/SASS-0?style=for-the-badge&logo=SASS&color=bf4080&logoColor=FFF) -->
 
----
+<br>
 
 ## Open source projects
 
@@ -25,7 +25,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 **AE tools** - [GitHub](https://github.com/Namide/AE-tools)  
 <sup>Few helpers for After Effects</sup>
 
----
+<br>
 
 ## 3D experiments
 
