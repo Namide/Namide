@@ -1,6 +1,4 @@
-# Hi, I'm [Namide](https://namide.com/)
-
-I like video games, books and programming 🦄
+Hi, I'm [Namide](https://namide.com/), I like video games, books and programming 🦄
 
 ![](https://img.shields.io/badge/TypeScript-0?style=for-the-badge&logo=typescript&color=3178c6&logoColor=FFF)
 ![](https://img.shields.io/badge/three.js-0?style=for-the-badge&logo=three.js&color=efd81d&logoColor=000)
