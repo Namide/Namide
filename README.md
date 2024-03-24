@@ -14,16 +14,12 @@ I like video games, books and programming 🦄
 
 ## Open source projects
 
-[**Extract Colors**](https://extract-colors.namide.com/)  
-[![](https://img.shields.io/badge/NPM-0?style=flat-square&logo=NPM&color=cd3e3d&logoColor=FFF)](https://www.npmjs.com/package/extract-colors)
-[![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/extract-colors)
-![](https://img.shields.io/github/stars/Namide/extract-colors?style=flat-square&labelColor=343b41)
+**Extract Colors** - [site](https://extract-colors.namide.com/)  - [NPM](https://www.npmjs.com/package/extract-colors) - [GitHub](https://github.com/Namide/extract-colors) 
 ![](https://img.shields.io/npm/dt/extract-colors?style=flat-square)  
-<sup>Extract color palettes from images (browser or Node.js)</sup>
+<sup>Extract color palettes from images (browser or Node.js)</sup>  
+![](https://img.shields.io/npm/dt/extract-colors?style=flat-square)  
 
-[**Twon**](https://twon.namide.com/) _(in development)_  
-[![](https://img.shields.io/badge/NPM-0?style=flat-square&logo=NPM&color=cd3e3d&logoColor=FFF)](https://www.npmjs.com/package/twon)
-[![](https://img.shields.io/badge/GitHub-0?style=flat-square&logo=GitHub&color=222&logoColor=FFF)](https://github.com/Namide/twon)  
+[**Twon**](https://twon.namide.com/) _(in development)_ - [NPM](https://www.npmjs.com/package/twon) - [GitHub](https://github.com/Namide/twon)  
 <sup>Tween js/ts library with timeline and cubic bezier support</sup>
 
 [**AE tools**](https://github.com/Namide/AE-tools)  
@@ -32,10 +28,10 @@ I like video games, books and programming 🦄
 
 ## 3D experiments
 
-🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [sources](https://github.com/Namide/havok-test)  
+🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [GitHub](https://github.com/Namide/havok-test)  
 <sup>Havok WASM web version with Three.js with drag'n drop support</sup>
 
-🎮 **Platform** - [demo](https://namide.github.io/havok-test-2/) - [sources](https://github.com/Namide/havok-test-2)  
+🎮 **Platform** - [demo](https://namide.github.io/havok-test-2/) - [GitHub](https://github.com/Namide/havok-test-2)  
 <sup>Havok WASM web version with Three.js for platform game with infinity terrain generation</sup>
 
 👾 **Vailama** - [demo](https://vailama.namide.com/) - [sources](https://github.com/Namide/vailama)  
