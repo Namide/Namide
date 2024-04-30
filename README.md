@@ -40,6 +40,9 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 👾 **Vailama** - [demo](https://vailama.namide.com/) - [GitHub](https://github.com/Namide/vailama)  
 <sup>_Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/) contest_</sup>
 
+📦️ **Warehouse** - [demo](https://namide.github.io/warehouse-simulator/) - [GitHub](https://github.com/Namide/warehouse-simulator)  
+<sup>_Tool for a friend's logistics students_</sup>
+
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)  
 <sup>_WebGL render engine_</sup>
 
