@@ -41,7 +41,7 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 <sup>_Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/challenges) contest_</sup>
 
 📦️ **Warehouse** - [demo](https://namide.github.io/warehouse-simulator/) - [GitHub](https://github.com/Namide/warehouse-simulator)  
-<sup>_Tool for a friend's logistics students_</sup>
+<sup>_Tool for logistics students of a friend_</sup>
 
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)  
 <sup>_WebGL render engine_</sup>
