@@ -2,14 +2,16 @@
 
 Hi, I'm [Namide](https://namide.com/), I like video games, books and programming 🦄
 
-![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
-![](https://img.shields.io/badge/three.js-0?style=flat-square&logo=three.js&color=efd81d&logoColor=000)
-![](https://img.shields.io/badge/Vue.js-0?style=flat-square&logo=Vue.js&color=42b883&logoColor=FFF)
-![](https://img.shields.io/badge/Blender_3D-0?style=flat-square&logo=Blender&color=f4792b&logoColor=FFF)
-![](https://img.shields.io/badge/PixiJs-0?style=flat-square&logo=PixiJs&color=e72264&logoColor=000)
-![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)
-![](https://img.shields.io/badge/Biome.js-0?style=flat-square&logo=Biome.js&color=60a5fa&logoColor=FFF)
-![](https://img.shields.io/badge/VS_Code-0?style=flat-square&logo=VisualStudioCode&color=0066b8&logoColor=FFF)
+[![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/three.js-0?style=flat-square&logo=three.js&color=efd81d&logoColor=000)](https://threejs.org/)
+[![](https://img.shields.io/badge/Vue.js-0?style=flat-square&logo=Vue.js&color=42b883&logoColor=FFF)](https://vuejs.org/)
+[![](https://img.shields.io/badge/Blender_3D-0?style=flat-square&logo=Blender&color=f4792b&logoColor=FFF)](https://www.blender.org/)
+[![](https://img.shields.io/badge/PixiJs-0?style=flat-square&logo=PixiJs&color=e72264&logoColor=000)](https://pixijs.com/)
+[![](https://img.shields.io/badge/VS_Code-0?style=flat-square&logo=VisualStudioCode&color=0066b8&logoColor=FFF)](https://code.visualstudio.com/)
+
+<!-- [![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)](https://nodejs.org/) -->
+<!-- ![](https://img.shields.io/badge/Biome.js-0?style=flat-square&logo=Biome.js&color=60a5fa&logoColor=FFF) -->
+
 <!-- ![](https://img.shields.io/badge/JavaScript-0?style=flat-square&logo=JavaScript&color=efd81d&logoColor=000)
 ![](https://img.shields.io/badge/SASS-0?style=flat-square&logo=SASS&color=bf4080&logoColor=FFF) -->
 
@@ -17,9 +19,9 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 
 ## Open source projects
 
-**Extract Colors** - [site](https://extract-colors.namide.com/)  - [NPM](https://www.npmjs.com/package/extract-colors) - [GitHub](https://github.com/Namide/extract-colors)  
+**Extract Colors** - [site](https://extract-colors.namide.com/) - [NPM](https://www.npmjs.com/package/extract-colors) - [GitHub](https://github.com/Namide/extract-colors)  
 <sup>Extract color palettes from images (browser or Node.js)</sup>  
-![](https://img.shields.io/npm/dt/extract-colors?style=flat-square&color=7F0)  
+[![](https://img.shields.io/npm/dt/extract-colors?style=flat-square&color=7F0)](https://npm-stat.com/charts.html?package=extract-colors&from=2020-01-04)
 
 **Twon** _(in development)_ - [site](https://twon.namide.com/) - [NPM](https://www.npmjs.com/package/twon) - [GitHub](https://github.com/Namide/twon)  
 <sup>Tween js/ts library with timeline and cubic bezier support</sup>
@@ -43,24 +45,21 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 📦️ **Warehouse** - [demo](https://namide.github.io/warehouse-simulator/) - [GitHub](https://github.com/Namide/warehouse-simulator)  
 <sup>_Tool for logistics students of a friend_</sup>
 
-<!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)  
+<!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)
 <sup>_WebGL render engine_</sup>
 
-🧊 **MPGS** - [sources](https://github.com/Namide/mpgs)  
+🧊 **MPGS** - [sources](https://github.com/Namide/mpgs)
 <sup>_Server/client for multiplayer mini games and chat_</sup>
 
 
 ## Helpers
 
-**Share** - [sources](https://github.com/Namide/share)  
+**Share** - [sources](https://github.com/Namide/share)
 <sup>_Social networks share example_</sup>
 
-**htaccess Gen** - [sources](https://github.com/Namide/htaccess-gen)  
+**htaccess Gen** - [sources](https://github.com/Namide/htaccess-gen)
 <sup>_.htaccess and .htpassword generator_</sup> -->
 
-
-
-  
 <!--
 ![Namide github stats](https://github-readme-stats.vercel.app/api?username=Namide&show_icons=true&theme=dracula)
 
