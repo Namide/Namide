@@ -33,6 +33,9 @@ Hi, I'm [Namide](https://namide.com/), I like video games, books and programming
 
 ## 3D experiments
 
+♟️ **Ultra Mat** - [demo](https://botw-chess.namide.com/) - [GitHub](https://github.com/Namide/botw-chess)  
+<sup>Three.js 3D chess render with Stockfish chess engine</sup>
+
 🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [GitHub](https://github.com/Namide/havok-test)  
 <sup>Havok WASM web version with Three.js with drag'n drop support</sup>
 
