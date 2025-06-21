@@ -1,4 +1,5 @@
-[![](./img/title-02.jpg)](https://namide.com/)
+[![](./img/namide-cover.avif)](https://namide.com/)
+<br>
 
 Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and 🦄 programming.
 
@@ -15,7 +16,11 @@ Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and �
 <!-- ![](https://img.shields.io/badge/JavaScript-0?style=flat-square&logo=JavaScript&color=efd81d&logoColor=000)
 ![](https://img.shields.io/badge/SASS-0?style=flat-square&logo=SASS&color=bf4080&logoColor=FFF) -->
 
+<br>
+
 <img src="./img/gradiant-01.jpg" >
+
+<br>
 
 ## Open source projects
 
@@ -31,10 +36,12 @@ Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and �
 
 <img src="./img/gradiant-02.jpg" >
 
-## 3D experiments
+<br>
+
+## Experiments
 
 ♟️ **Ultra Mat** - [demo](https://botw-chess.namide.com/) - [GitHub](https://github.com/Namide/botw-chess)  
-<sup>Three.js 3D chess render with Stockfish chess engine</sup>
+<sup>Three.js 3D chess website developed for the [BOTW](https://briefweek.fr/)</sup>
 
 🃏 **Drag'n drop** - [demo](https://namide.github.io/havok-test/) - [GitHub](https://github.com/Namide/havok-test)  
 <sup>Havok WASM web version with Three.js with drag'n drop support</sup>
@@ -43,10 +50,10 @@ Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and �
 <sup>Havok WASM web version with Three.js for platform game with infinity terrain generation</sup>
 
 👾 **Vailama** - [demo](https://vailama.namide.com/) - [GitHub](https://github.com/Namide/vailama)  
-<sup>_Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/challenges) contest_</sup>
+<sup>Tiny SHMUP demo created for the [Three.js Journey Challenge #001](https://threejs-journey.com/challenges) contest</sup>
 
 📦️ **Warehouse** - [demo](https://namide.github.io/warehouse-simulator/) - [GitHub](https://github.com/Namide/warehouse-simulator)  
-<sup>_Tool for logistics students of a friend_</sup>
+<sup>Tool for logistics students of a friend</sup>
 
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)
 <sup>_WebGL render engine_</sup>
