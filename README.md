@@ -1,6 +1,6 @@
 [![](./img/title-02.jpg)](https://namide.com/)
 
-Hi, I'm [Namide](https://namide.com/), I like video games, books and programming 🦄
+Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and 🦄 programming.
 
 [![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/three.js-0?style=flat-square&logo=three.js&color=efd81d&logoColor=000)](https://threejs.org/)
