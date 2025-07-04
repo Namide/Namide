@@ -55,6 +55,9 @@ Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and �
 📦️ **Warehouse** - [demo](https://namide.github.io/warehouse-simulator/) - [GitHub](https://github.com/Namide/warehouse-simulator)  
 <sup>Tool for logistics students of a friend</sup>
 
+🧊 **Aekino** - [demo](https://namide.github.io/aekino/) - [GitHub](https://github.com/Namide/aekino)  
+<sup>Prototype of WebGL render engine</sup>
+
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)
 <sup>_WebGL render engine_</sup>
 
