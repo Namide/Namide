@@ -58,6 +58,10 @@ Hi, I'm [Namide](https://namide.com/), I like 🎮 video games, 📖 books and �
 🧊 **Aekino** - [demo](https://namide.github.io/aekino/) - [GitHub](https://github.com/Namide/aekino)  
 <sup>Prototype of WebGL render engine</sup>
 
+
+🏁 **Wave Function Collapse** - [demo](https://namide.github.io/wave-function-collapse/) - [GitHub](https://github.com/Namide/wave-function-collapse)  
+<sup>Test of wave function collapse from texture algorithm</sup>
+
 <!-- 🧊 **Aekino** - [sources](https://github.com/Namide/aekino)
 <sup>_WebGL render engine_</sup>
 
